@@ -1,4 +1,4 @@
-# UE4 Blank Project
+# UE4 Intro to Blueprints
 
 * Remember to include your name in this `README.md` file.
 * Update the controls and instructions on how to play your game. Even if you are copying my walk throughs verbatim, just include which controls you ended up using.
